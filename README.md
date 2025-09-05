@@ -3,6 +3,7 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <meta name="google-site-verification" content="wJ7Z2_2wXuJovx9JqjDpykNRHZKjqX7iK43FouJ1WiI" />
     <title>Tel Örgü ve Çit Uygulamaları</title>
     <style>
         body {
