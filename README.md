@@ -4,10 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ankara Sincan Tel Örgü</title>
-
-    <!-- Google doğrulama etiketi -->
     <meta name="google-site-verification" content="wJ7Z2_2wXuJovx9JqjDpykNRHZKjqX7iK43FouJ1WiI" />
-
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -78,7 +75,6 @@
         <h1>Ankara Sincan Tel Örgü</h1>
         <p>Dayanıklı ve estetik tel örgü, çit ve bahçe çözümleri</p>
     </header>
-
     <nav>
         <ul>
             <li><a href="#beton-direk">Beton Direk Tel Örgü</a></li>
@@ -158,4 +154,114 @@
             <img src="kapı2.jpg" alt="Bahçe Kapısı 2">
             <img src="kapı3.jpg" alt="Bahçe Kapısı 3">
             <img src="kapı4.jpg" alt="Bahçe Kapısı 4">
-            <img src="kapı5.jpg" alt="Bahçe Kap
+            <img src="kapı5.jpg" alt="Bahçe Kapısı 5">
+        </div>
+    </section>
+
+    <!-- Jiletli Tel -->
+    <section id="jiletli-tel">
+        <h2>Jiletli Tel Uygulaması</h2>
+        <p>Jiletli tel sistemleri, yüksek güvenlik gerektiren alanlar için idealdir. Ankara Sincan Tel Örgü, kaliteli çelik jiletli teller ile güvenlik önlemlerini maksimum seviyeye çıkarır. Askeri bölgeler, sanayi alanları ve özel mülklerde tercih edilir. Uygulama sırasında çevre güvenliği ve montaj hassasiyeti ön plandadır.</p>
+        <div class="gallery">
+            <img src="jilet1.jpg" alt="Jiletli Tel 1">
+            <img src="jilet2.jpg" alt="Jiletli Tel 2">
+            <img src="jilet3.jpg" alt="Jiletli Tel 3">
+            <img src="jilet4.jpg" alt="Jiletli Tel 4">
+            <img src="jilet5.jpg" alt="Jiletli Tel 5">
+        </div>
+    </section>
+
+    <!-- Dikenli Tel -->
+    <section id="dikenli-tel">
+        <h2>Dikenli Tel Uygulaması</h2>
+        <p>Dikenli tel sistemleri, sınır güvenliğini sağlamak için etkili bir çözüm sunar. Ankara Sincan Tel Örgü, kaliteli galvanizli tel ve uzman montaj ile güvenliğinizi artırır. Tarım alanları, sanayi ve özel mülkler için uygundur. Dayanıklı ve uzun ömürlü yapısı ile maliyet avantajı sağlar.</p>
+        <div class="gallery">
+            <img src="diken1.jpg" alt="Dikenli Tel 1">
+            <img src="diken2.jpg" alt="Dikenli Tel 2">
+            <img src="diken3.jpg" alt="Dikenli Tel 3">
+            <img src="diken4.jpg" alt="Dikenli Tel 4">
+            <img src="diken5.jpg" alt="Dikenli Tel 5">
+        </div>
+    </section>
+
+    <!-- Halısaha -->
+    <section id="halisaha">
+        <h2>Halı Saha Uygulaması</h2>
+        <p>Halı saha çevresi tel örgü sistemleri, spor alanlarında güvenliği sağlarken, saha estetiğini de tamamlar. Ankara Sincan Tel Örgü, dayanıklı malzeme kullanımı ve sağlam montaj ile sahaların uzun ömürlü olmasını sağlar. Kullanım yoğunluğuna uygun çözümler sunar.</p>
+        <div class="gallery">
+            <img src="halisaha1.jpg" alt="Halı Saha 1">
+            <img src="halisaha2.jpg" alt="Halı Saha 2">
+            <img src="halisaha3.jpg" alt="Halı Saha 3">
+            <img src="halisaha4.jpg" alt="Halı Saha 4">
+            <img src="halisaha5.jpg" alt="Halı Saha 5">
+        </div>
+    </section>
+
+    <!-- Ferforje Korkuluk -->
+    <section id="ferforje">
+        <h2>Ferforje Korkuluk Uygulaması</h2>
+        <p>Ferforje korkuluk sistemleri, estetik ve güvenliği bir arada sunar. Ankara Sincan Tel Örgü, özel tasarım ve dayanıklı malzeme ile projelerinizi tamamlar. Bahçe, balkon ve merdiven alanlarında uzun ömürlü çözümler sağlar. Renk ve tasarım seçenekleri ile mekanınıza uyum sağlar.</p>
+        <div class="gallery">
+            <img src="ferforje1.jpg" alt="Ferforje 1">
+            <img src="ferforje2.jpg" alt="Ferforje 2">
+            <img src="ferforje3.jpg" alt="Ferforje 3">
+            <img src="ferforje4.jpg" alt="Ferforje 4">
+            <img src="ferforje5.jpg" alt="Ferforje 5">
+        </div>
+    </section>
+
+    <!-- Askeri Bölge Tel Örgü -->
+    <section id="askeri-bolge">
+        <h2>Askeri Bölge Tel Örgü Uygulaması</h2>
+        <p>Askeri bölge tel örgü uygulamaları, yüksek güvenlik standartlarına uygun şekilde yapılır. Ankara Sincan Tel Örgü, özel güvenlik tel sistemleri ile sınırları korur ve yetkisiz girişleri önler. Dayanıklı malzemeler ve uzman montaj ile maksimum güvenlik sağlanır.</p>
+        <div class="gallery">
+            <img src="askeri1.jpg" alt="Askeri Tel 1">
+            <img src="askeri2.jpg" alt="Askeri Tel 2">
+            <img src="askeri3.jpg" alt="Askeri Tel 3">
+            <img src="askeri4.jpg" alt="Askeri Tel 4">
+            <img src="askeri5.jpg" alt="Askeri Tel 5">
+        </div>
+    </section>
+
+    <!-- Park Alanı -->
+    <section id="park-alani">
+        <h2>Park Alanı Tel Örgü</h2>
+        <p>Park alanlarında tel örgü uygulamaları, güvenlik ve estetiği bir arada sunar. Ankara Sincan Tel Örgü, farklı yükseklik ve tasarımlarda park çitleri sunar. Dayanıklı malzeme ve özenli montaj ile uzun ömürlü çözümler sağlanır. Çocuk ve yeşil alan güvenliği ön plandadır.</p>
+        <div class="gallery">
+            <img src="park1.jpg" alt="Park 1">
+            <img src="park2.jpg" alt="Park 2">
+            <img src="park3.jpg" alt="Park 3">
+            <img src="park4.jpg" alt="Park 4">
+            <img src="park5.jpg" alt="Park 5">
+        </div>
+    </section>
+
+    <!-- Okul Bahçesi -->
+    <section id="okul">
+        <h2>Okul Bahçesi Tel Örgü</h2>
+        <p>Okul bahçesi tel örgü uygulamaları, öğrencilerin güvenliği için önemlidir. Ankara Sincan Tel Örgü, estetik ve dayanıklı malzemelerle okul bahçeleri için özel çözümler sunar. Montaj sürecinde güvenlik standartları ve kullanım kolaylığı ön plandadır.</p>
+        <div class="gallery">
+            <img src="okul1.jpg" alt="Okul 1">
+            <img src="okul2.jpg" alt="Okul 2">
+            <img src="okul3.jpg" alt="Okul 3">
+            <img src="okul4.jpg" alt="Okul 4">
+            <img src="okul5.jpg" alt="Okul 5">
+        </div>
+    </section>
+
+    <!-- İletişim -->
+    <section id="iletisim">
+        <h2>İletişim</h2>
+        <p>Firmamız Ankara Sincan Tel Örgü ile iletişime geçmek için aşağıdaki numaralardan bize ulaşabilirsiniz:</p>
+        <ul>
+            <li>0536 497 70 90</li>
+            <li>0543 785 80 06</li>
+            <li>0542 310 85 76</li>
+        </ul>
+    </section>
+
+    <footer>
+        <p>&copy; 2025 Ankara Sincan Tel Örgü | Tüm Hakları Saklıdır</p>
+    </footer>
+</body>
+</html>
