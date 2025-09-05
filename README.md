@@ -5,7 +5,8 @@
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Ankara Sincan Tel Örgü</title>
     <meta name="google-site-verification" content="wJ7Z2_2wXuJovx9JqjDpykNRHZKjqX7iK43FouJ1WiI" />
-    <style>
+    
+   <style>
         body {
             font-family: Arial, sans-serif;
             margin: 0;
